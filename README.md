@@ -1,6 +1,6 @@
-#Twitter Estatico
+# Twitter Estático
 
-Um feed do twitter estatico com modo claro e o modo escuto, feito com HTML e CSS
+Um feed do twitter estático com modo claro e o modo escuto, feito com HTML e CSS
 
 **Modo Claro**
 
@@ -10,7 +10,7 @@ Um feed do twitter estatico com modo claro e o modo escuto, feito com HTML e CSS
 
 ![Image](https://i.imgur.com/RMgKvRW.png)
 
-# Static_Twitter
+# Static Twitter
 A static twitter feed with light mode and dark mode, made up with HTML and CSS
 
 **Light Mode**
