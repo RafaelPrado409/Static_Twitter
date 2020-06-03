@@ -1,3 +1,6 @@
+![](https://img.shields.io/badge/-HTML-lightgrey)
+![](https://img.shields.io/badge/-CSS-brightgreen)
+
 ![Image](https://i.imgur.com/cog7UmV.png)
 
 ![Image](https://i.imgur.com/RMgKvRW.png)
